@@ -6,7 +6,7 @@ require "rake/gempackagetask"
 
 # Version numbering: http://wiki.github.com/sandal/prawn/development-roadmap
 #
-PRAWN_SECURITY_VERSION = "0.8.3"
+PRAWN_SECURITY_VERSION = "0.8.4"
 
 task :default => [:test]
        
